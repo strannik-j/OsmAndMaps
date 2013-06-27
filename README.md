@@ -1,4 +1,0 @@
-OsmAndMaps
-==========
-
-OsmAnd maps downloader
