@@ -1,6 +1,6 @@
 // Copyright 2010 Google Inc. All Rights Reserved.
 
-package com.dummy.fooforandroid;
+package com.strannikj.osmandmaps;
 
 import android.content.Context;
 import android.content.res.Resources;
