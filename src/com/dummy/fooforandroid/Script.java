@@ -1,13 +1,13 @@
 // Copyright 2010 Google Inc. All Rights Reserved.
 
-package com.strannikj.osmandmaps;
+package com.dummy.fooforandroid;
 
 import android.content.Context;
 import android.content.res.Resources;
 
 public class Script {
 
-  public final static int ID = R.raw.osmandmaps_android;
+  public final static int ID = R.raw.download_agiu;
 
   public static String sFileName;
 
