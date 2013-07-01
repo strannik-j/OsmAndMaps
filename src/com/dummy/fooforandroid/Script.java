@@ -7,7 +7,7 @@ import android.content.res.Resources;
 
 public class Script {
 
-  public final static int ID = R.raw.script;
+  public final static int ID = R.raw.osmandmaps_android;
 
   public static String sFileName;
 
